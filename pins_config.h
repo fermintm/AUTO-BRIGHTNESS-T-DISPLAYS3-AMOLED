@@ -13,8 +13,8 @@
 
 // #define WIFI_SSID             "YOUR-SSID"
 // #define WIFI_PASSWORD         "YOUR-PSW"
-#define WIFI_SSID             "ESTACA 2"
-#define WIFI_PASSWORD         "routerestaca"
+#define WIFI_SSID             ""
+#define WIFI_PASSWORD         ""
 
 #define WIFI_CONNECT_WAIT_MAX (30 * 1000)
 
